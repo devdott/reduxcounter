@@ -6,7 +6,7 @@ class App extends Component {
         return(
             <div>
                 {/* 받는 파라미터 {number, color, onIncreament, onDecreament, onSetColor} */}
-                <Counter />
+                <Counter  />
             </div>
         )
     }

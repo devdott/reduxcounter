@@ -10,7 +10,7 @@ const Counter = ( {number, color, onIncrement, onDecrement, onSetColor} ) =>{
         </div>
     )
 };
-
+//변수의 형식타입
 Counter.propTypes = {
     number : PropTypes.number,
     color : PropTypes.string,
